@@ -1,21 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Dockerized Reactapp</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Utilize Docker locally to build and run application on your machine for testing purposes
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://pravinstha.com.np"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          ReadMore
         </a>
       </header>
     </div>
